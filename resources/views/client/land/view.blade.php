@@ -21,6 +21,7 @@
                         <li class="nav__item"><a href="#worth">Ценность курса</a></li>
                         <li class="nav__item"><a href="#reviews">Отзывы</a></li>
                         <li class="nav__item"><a href="#answers">Вопрос-ответ</a></li>
+                        <li class="nav__item" style="color: #076AFF"><a href="{{ route('login') }}">Войти в аккаунт</a></li>
                     </ul>
                 </nav><button class="btn header__start-btn" data-type="start-learn">Начать обучение</button></div>
         </div>
