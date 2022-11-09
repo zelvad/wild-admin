@@ -349,7 +349,7 @@
         </form>
     </div>
 </div>
-<script src="/land/js/index.js?v=1"></script>
+<script src="/land/js/index.js?v=2"></script>
 </body>
 
 </html>
